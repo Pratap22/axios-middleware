@@ -1,0 +1,25 @@
+{
+  "name": "axios-middleware",
+  "version": "1.0.0",
+  "description": "A redux middleware which works best with axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratap22/axios-middleware.git"
+  },
+  "keywords": [
+    "redux",
+    "axios",
+    "react",
+    "middleware"
+  ],
+  "author": "Pratap Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pratap22/axios-middleware/issues"
+  },
+  "homepage": "https://github.com/Pratap22/axios-middleware#readme"
+}
