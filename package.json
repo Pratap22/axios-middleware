@@ -1,5 +1,5 @@
 {
-  "name": "axios-middleware",
+  "name": "@pratap2210/axios-middleware",
   "version": "1.0.0",
   "description": "A redux middleware which works best with axios",
   "main": "index.js",
